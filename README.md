@@ -1,2 +1,6 @@
-# File-Organizer
-This is a File Organizer it automatically organizes files in a folder based on their type. Perfect for keeping your Downloads folder or any directory neat and tidy.
+# Auto-Organizer
+Automatically organizes files in a folder by type.
+
+## How to use
+1. Update the folder path in the script.
+2. Run `python file_organizer.py`.
